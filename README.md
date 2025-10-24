@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Matthew Teferi 👋
 
-<!--
-**metthew-t/metthew-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate backend web developer with a knack for building robust and scalable applications. My goal is to create efficient server-side solutions that enhance user experiences and drive business success.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm proficient in several programming languages, including Python, JavaScript, and Ruby.
+- 🌐 I have experience with various frameworks such as Node.js, Django, and Ruby on Rails.
+- 📊 I enjoy working with databases like PostgreSQL, MongoDB, and MySQL.
+- 🔍 I’m always eager to learn new technologies and improve my skills.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, Ruby
+- **Frameworks:** Node.js, Django, Flask, Ruby on Rails
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, Docker, Postman, Jenkins
+- **Cloud Services:** AWS, Heroku
+
+
+## 📫 my contracts 
+
+I'm always open to collaborating on interesting projects or discussing tech-related topics! Feel free to reach out:
+
+- Email: metthewsteferi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/matthew-teferi
+
+Thanks for visiting my profile! Let's connect and build something amazing together!
